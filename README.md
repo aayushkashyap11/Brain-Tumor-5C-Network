@@ -43,3 +43,7 @@ To run the code in this repository, follow these steps:
    ```bash
    git clone https://github.com/aayushkashyap11/Brain-Tumor-5C-Network.git
    cd brain-metastasis-segmentation
+
+2. **Save Model link**
+   ```bash
+   https://drive.google.com/file/d/13a9s7K2-ArFSJzp0By5KCD7Vc7W0vdn2/view?usp=sharing

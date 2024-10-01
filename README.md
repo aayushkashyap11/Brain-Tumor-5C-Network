@@ -41,5 +41,5 @@ To run the code in this repository, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/brain-metastasis-segmentation.git
+   git clone https://github.com/aayushkashyap11/Brain-Tumor-5C-Network.git
    cd brain-metastasis-segmentation
